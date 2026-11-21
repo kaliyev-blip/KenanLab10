@@ -1,0 +1,6 @@
+@KenanLAb10_HostAddress = http://localhost:5234
+
+GET {{KenanLAb10_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
